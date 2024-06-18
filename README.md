@@ -2,10 +2,10 @@
 This repository produces a statically linked [Ragel](https://github.com/adrian-thurston/ragel) x64 binary for Windows, using the MSVC compiler.<br>
 For detailed information about Ragel itself, please refer to the original repository.
 
-# How to use
+## How to use
 Download the [latest release](https://github.com/PolarGoose/Ragel-for-Windows/releases)
 
-# System requirements
+## System requirements
 Windows 7 x64 or higher
 
 ## How to generate files from `patch_files\ragel` folder
