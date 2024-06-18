@@ -1,6 +1,5 @@
 # Ragel source code built for Windows
 This repository produces a statically linked [Ragel](https://github.com/adrian-thurston/ragel) x64 binary for Windows, using the MSVC compiler.<br>
-The source code is taken from the <br>
 For detailed information about Ragel itself, please refer to the original repository.
 
 # How to use
